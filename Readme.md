@@ -1,7 +1,3 @@
-Certainly, here's a README template for your Rust code:
-
----
-
 # Clensius
 
 Clensius is a command-line utility for cleaning wordlists by removing lines that match specific regular expressions. It helps you preprocess wordlists before using them for various purposes, such as password cracking or data analysis.
